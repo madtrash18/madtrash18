@@ -48,7 +48,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**libft**](./circle_0/libft) | C 표준 라이브러리 함수 직접 구현 (40+ 함수, 연결 리스트 포함) | `C` |
+| [**libft**](https://github.com/madtrash18/libft) | C 표준 라이브러리 함수 직접 구현 (40+ 함수, 연결 리스트 포함) | `C` |
 
 </details>
 
@@ -57,9 +57,9 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**born2beroot**](./circle_1/born2beroot) | Debian 가상 머신 구축 및 서버 보안 설정 | `Linux` `VM` `bash` |
-| [**ft_printf**](./circle_1/ft_printf) | printf 재구현 — 가변인수 & 형식 지정자 파싱 | `C` `stdarg` |
-| [**get_next_line**](./circle_1/get_next_line) | fd에서 한 줄씩 읽는 함수 — 정적 변수 & 버퍼 관리 | `C` |
+| [**born2beroot**](https://github.com/madtrash18/born2beroot) | Debian 가상 머신 구축 및 서버 보안 설정 | `Linux` `VM` `bash` |
+| [**ft_printf**](https://github.com/madtrash18/ft_printf) | printf 재구현 — 가변인수 & 형식 지정자 파싱 | `C` `stdarg` |
+| [**get_next_line**](https://github.com/madtrash18/get_next_line) | fd에서 한 줄씩 읽는 함수 — 정적 변수 & 버퍼 관리 | `C` |
 
 </details>
 
@@ -68,9 +68,9 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**minitalk**](./circle_2/minitalk) | UNIX 시그널만으로 구현한 IPC 통신 | `C` `SIGUSR1/2` |
-| [**push_swap**](./circle_2/push_swap) | 두 스택을 이용한 정렬 알고리즘 (Greedy + Deque) | `C` |
-| [**so_long**](./circle_2/so_long) | 2D 탑뷰 게임 — 맵 파싱, 이동, 수집 요소 | `C` `MiniLibX` |
+| [**minitalk**](https://github.com/madtrash18/minitalk) | UNIX 시그널만으로 구현한 IPC 통신 | `C` `SIGUSR1/2` |
+| [**push_swap**](https://github.com/madtrash18/push_swap) | 두 스택을 이용한 정렬 알고리즘 (Greedy + Deque) | `C` |
+| [**so_long**](https://github.com/madtrash18/so_long) | 2D 탑뷰 게임 — 맵 파싱, 이동, 수집 요소 | `C` `MiniLibX` |
 
 </details>
 
@@ -79,8 +79,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**minishell**](./circle_3/minishell) | Bash 셸 구현 — 토크나이저, 파서, 실행기, 파이프라인 | `C` `fork/exec` `readline` |
-| [**philosophers**](./circle_3/philosophers) | 식사하는 철학자 문제 — 멀티스레드 데드락 방지 | `C` `pthreads` `mutex` |
+| [**minishell**](https://github.com/madtrash18/minishell) | Bash 셸 구현 — 토크나이저, 파서, 실행기, 파이프라인 | `C` `fork/exec` `readline` |
+| [**philosophers**](https://github.com/madtrash18/philosophers) | 식사하는 철학자 문제 — 멀티스레드 데드락 방지 | `C` `pthreads` `mutex` |
 
 </details>
 
@@ -89,9 +89,9 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**netpractice**](./circle_4/netpractice) | TCP/IP 네트워킹 — 서브넷 계산과 라우팅 설계 | `Networking` |
-| [**cub3d**](./circle_4/cub3d) | DDA 레이캐스팅 기반 3D 렌더링 엔진 | `C` `MiniLibX` |
-| [**cpp (00~04)**](./circle_4/cpp) | C++ 기초 — 클래스, 상속, 다형성, 추상화 | `C++` `OOP` |
+| [**netpractice**](https://github.com/madtrash18/netpractice) | TCP/IP 네트워킹 — 서브넷 계산과 라우팅 설계 | `Networking` |
+| [**cub3d**](https://github.com/madtrash18/cub3d) | DDA 레이캐스팅 기반 3D 렌더링 엔진 | `C` `MiniLibX` |
+| [**cpp (00~04)**](https://github.com/madtrash18/cpp_modules) | C++ 기초 — 클래스, 상속, 다형성, 추상화 | `C++` `OOP` |
 
 </details>
 
@@ -100,9 +100,9 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**cpp (05~09)**](./circle_5/cpp) | C++ 심화 — 예외처리, 형변환, 템플릿, STL | `C++` `STL` |
-| [**ft_irc**](./circle_5/ft_irc) | RFC 기반 IRC 서버 — 멀티클라이언트, 채널 관리 | `C++` `socket` `epoll` |
-| [**inception**](./circle_5/inception) | Docker LEMP 스택 (Nginx, WordPress, MariaDB) | `Docker` `Nginx` |
+| [**cpp (05~09)**](https://github.com/madtrash18/cpp_advanced) | C++ 심화 — 예외처리, 형변환, 템플릿, STL | `C++` `STL` |
+| [**ft_irc**](https://github.com/madtrash18/ft_irc) | RFC 기반 IRC 서버 — 멀티클라이언트, 채널 관리 | `C++` `socket` `epoll` |
+| [**inception**](https://github.com/madtrash18/inception) | Docker LEMP 스택 (Nginx, WordPress, MariaDB) | `Docker` `Nginx` |
 
 </details>
 
@@ -111,7 +111,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**ft_transcendence**](./circle_6/ft_transcendence) | 실시간 멀티플레이어 웹 게임 플랫폼 (팀 TL 담당) | `React` `TypeScript` `Fastify` `WebSocket` `Docker` |
+| [**ft_transcendence**](https://github.com/madtrash18/ft_transcendence) | 실시간 멀티플레이어 웹 게임 플랫폼 (팀 TL 담당) | `React` `TypeScript` `Fastify` `WebSocket` `Docker` |
 
 </details>
 
@@ -133,7 +133,7 @@ WebSocket 기반 실시간 게임 룸 구현,
 
 `React` `TypeScript` `Fastify` `Prisma` `WebSocket` `Docker`
 
-[📁 보기](./circle_6/ft_transcendence)
+[📁 보기](https://github.com/madtrash18/ft_transcendence)
 
 </td>
 <td width="33%" valign="top">
@@ -147,7 +147,7 @@ lexer → tokenizer → parser → executor
 
 `C` `fork/exec` `dup2` `readline`
 
-[📁 보기](./circle_3/minishell)
+[📁 보기](https://github.com/madtrash18/minishell)
 
 </td>
 <td width="33%" valign="top">
@@ -161,7 +161,7 @@ DDA 알고리즘, 텍스처 매핑,
 
 `C` `MiniLibX` `선형대수` `DDA`
 
-[📁 보기](./circle_4/cub3d)
+[📁 보기](https://github.com/madtrash18/cub3d)
 
 </td>
 </tr>
