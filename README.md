@@ -174,10 +174,10 @@ DDA 알고리즘, 텍스처 매핑,
 <div align="center">
 
 <a href="https://github.com/madtrash18">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=madtrash18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Status" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=madtrash18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Status" />
 </a>
 <a href="https://github.com/madtrash18">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madtrash18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madtrash18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </a>
 
 </div>
