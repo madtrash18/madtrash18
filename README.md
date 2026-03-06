@@ -169,6 +169,21 @@ DDA 알고리즘, 텍스처 매핑,
 
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/madtrash18">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=madtrash18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Status" />
+</a>
+<a href="https://github.com/madtrash18">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madtrash18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
 ## 💡 배운 것들
 
 | 분야 | 핵심 학습 내용 |
